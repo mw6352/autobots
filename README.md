@@ -1,2 +1,2 @@
-# autobots
-Object binning and obstacle avoidance with SLAM
+# Object binning and obstacle avoidance with SLAM
+
